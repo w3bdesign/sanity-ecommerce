@@ -1,2 +1,2 @@
 # sanity-ecommerce
-Sanity ecommerce
+ Sanity Ecommerce application
