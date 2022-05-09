@@ -1,3 +1,6 @@
+[![Testing-library.com](https://img.shields.io/badge/tested%20with-React%20Testing%20Library-effe.svg)](https://testing-library.com)
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io)
+
 # Sanity Ecommerce application
 
  Sanity Ecommerce application
