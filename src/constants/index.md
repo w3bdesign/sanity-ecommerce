@@ -1,0 +1,2 @@
+Here you can put any constant variables that are used throughout the application. It’s a good practice
+to capitalise your constants to distinguish them from other variables and localised constants in your app.
