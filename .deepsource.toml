@@ -6,3 +6,8 @@ enabled = true
 
   [analyzers.meta]
   plugins = ["react"]
+
+  test_patterns = [
+  "src/__tests__/**",
+  "cypress/**"
+]
