@@ -2,7 +2,7 @@ import type { AppProps } from "next/app";
 
 import "../styles/globals.css";
 
-import { useHydration } from "hooks/useHydration";
+import { useHydration } from "@/hooks/useHydration";
 
 function MyApp({ Component, pageProps }: AppProps): JSX.Element {
   const hasHydrated = useHydration();
