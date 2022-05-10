@@ -8,6 +8,14 @@
 
 <https://youtu.be/LxUVASrxxu4?t=1566>
 
-<https://www.flavienbonvin.com/the-best-react-state-management-library-you-never-heard-of/>
-
 <https://github.com/slava-lu/enterprise-react-2022>
+
+## Zustand
+
+<https://github.com/indraAK/maos-quran>
+
+<https://codesandbox.io/s/nextjs-zustand-example-forked-bnpfz?file=/pages/index.tsx>
+
+<https://blog.devgenius.io/managing-persistent-states-in-nextjs-with-zustand-e6feea1a2d36>
+
+<https://www.flavienbonvin.com/the-best-react-state-management-library-you-never-heard-of/>
