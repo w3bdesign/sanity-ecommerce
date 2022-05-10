@@ -11,7 +11,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="container mx-auto">
-        <h1 className="text-2xl">STOR TEKST</h1>
+        <h1 className="text-2xl" data-cy="test">STOR TEKST</h1>
       </main>
     </div>
   );
