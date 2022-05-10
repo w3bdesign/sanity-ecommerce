@@ -27,3 +27,5 @@ https://github.com/tailwindcomponents/e-commerce
 
 https://tailwind-ecommerce.com
 
+
+https://www.creative-tim.com/blog/web-development/free-tailwind-css-templates-resources/amp/
