@@ -17,6 +17,8 @@
 
 <https://www.flavienbonvin.com/the-best-react-state-management-library-you-never-heard-of/>
 
+https://javascript.plainenglish.io/using-zustand-and-typescript-to-make-a-to-do-list-in-react-fe4a41e76748
+
 ## eCommerce
 
 <https://github.com/ndimatteo/HULL>
