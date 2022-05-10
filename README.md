@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/w3bdesign/sanity-ecommerce/tree/main.svg?style=svg)](https://circleci.com/gh/w3bdesign/sanity-ecommerce/tree/main)
 [![Testing-library.com](https://img.shields.io/badge/tested%20with-React%20Testing%20Library-effe.svg)](https://testing-library.com)
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io)
 [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)](https://github.com/w3bdesign/sanity-ecommerce)
