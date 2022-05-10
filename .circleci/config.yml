@@ -1,4 +1,4 @@
-version: 2.1
+version: 2.0
 orbs:
   # "cypress-io/cypress@1" installs the latest published
   # version "1.x.y" of the orb. We recommend you then use
