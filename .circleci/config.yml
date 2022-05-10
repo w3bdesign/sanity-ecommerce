@@ -27,6 +27,9 @@ jobs:
       - restore_cache:
           key: npm-cache-v1-{{ checksum "package-lock.json" }}
       - run:
+          name: Install npm
+          command: sudo apt install nodejs npm
+      - run:
           name: Install Dependencies
           command: npm ci
       - save_cache:
