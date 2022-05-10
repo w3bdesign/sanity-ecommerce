@@ -32,6 +32,9 @@ jobs:
       - run:
           name: Install npm
           command: sudo apt install nodejs npm
+      - run: 
+          name: Upgrade NPM
+          command: npm install -g npm
       - run:
           name: Install Dependencies
           command: npm ci
