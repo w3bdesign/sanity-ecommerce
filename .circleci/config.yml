@@ -6,7 +6,7 @@ orbs:
   # to lock the version and prevent unexpected CI changes
   cypress: cypress-io/cypress@1.29.0
 jobs:
-    # 👇 Adds Chromatic as a job
+  # 👇 Adds Chromatic as a job
   chromatic-deployment:
     docker:
       - image: cimg/node:18.0.0
@@ -19,9 +19,9 @@ jobs:
             - v1-dependencies-
       - run: yarn install
   build:
-    working_directory: ~/sanity-ecommerce
+    working_directory: ~/sanity
     docker:
-      - image: cimg/node:current-browsers
+      - image: cimg/node:18.0.0-browsers
     steps:
       - checkout
       - restore_cache:
@@ -46,10 +46,12 @@ workflows:
     jobs:
       - build:
           name: Build Next.js project
+      - chromatic-deployment: # 👈 Runs the job implemented above
+          name: Yarn install
       - cypress/run:
           name: Run Cypress E2E tests
           start: npm run dev
-          wait-on: 'http://localhost:3000'
+          wait-on: "http://localhost:3000"
           # there are no jobs to follow this one
           # so no need to save the workspace files (saves time)
           no-workspace: false
