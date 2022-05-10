@@ -7,10 +7,6 @@
 
  Sanity Ecommerce application
 
-<https://youtu.be/LxUVASrxxu4?t=1566>
-
-<https://github.com/slava-lu/enterprise-react-2022>
-
 ## Zustand
 
 <https://github.com/indraAK/maos-quran>
@@ -20,3 +16,7 @@
 <https://blog.devgenius.io/managing-persistent-states-in-nextjs-with-zustand-e6feea1a2d36>
 
 <https://www.flavienbonvin.com/the-best-react-state-management-library-you-never-heard-of/>
+
+## eCommerce
+
+<https://github.com/ndimatteo/HULL>
