@@ -17,15 +17,14 @@
 
 <https://www.flavienbonvin.com/the-best-react-state-management-library-you-never-heard-of/>
 
-https://javascript.plainenglish.io/using-zustand-and-typescript-to-make-a-to-do-list-in-react-fe4a41e76748
+<https://javascript.plainenglish.io/using-zustand-and-typescript-to-make-a-to-do-list-in-react-fe4a41e76748>
 
 ## eCommerce
 
 <https://github.com/ndimatteo/HULL>
 
-https://github.com/tailwindcomponents/e-commerce
+<https://github.com/tailwindcomponents/e-commerce>
 
-https://tailwind-ecommerce.com
+<https://tailwind-ecommerce.com>
 
-
-https://www.creative-tim.com/blog/web-development/free-tailwind-css-templates-resources/amp/
+<https://www.creative-tim.com/blog/web-development/free-tailwind-css-templates-resources/amp/>
