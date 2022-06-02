@@ -14,7 +14,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "types": ["cypress", "cypress-axe", "node"],
+    "types": ["cypress", "node"],
     "paths": {
       "/@/*": ["./src/*"],
       "@/*": ["./src/*"]
