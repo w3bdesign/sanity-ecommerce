@@ -41,7 +41,7 @@
     "autoprefixer": "^10.4.7",
     "babel-loader": "^8.2.5",
     "chokidar": "^3.5.3",
-    "cypress": "^10.0.2",
+    "cypress": "^10.0.3",
     "eslint": "8.17.0",
     "eslint-config-next": "12.1.6",
     "eslint-config-prettier": "^8.5.0",
