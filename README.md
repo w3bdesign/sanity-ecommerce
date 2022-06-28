@@ -7,6 +7,10 @@
 # Sanity Ecommerce application
 
  Sanity Ecommerce application
+ 
+ ## Nextjs
+ 
+ https://blog.logrocket.com/build-ecommerce-app-nextjs-shopify/
 
 ## Zustand
 
