@@ -41,7 +41,7 @@ module.exports = {
   reactStrictMode: true,
   poweredByHeader: false,
   images: {
-    domains: ["cdn.sanity.io", "ecommerce.dfweb.no"],
+    domains: ["cdn.sanity.io", "ecommerce.dfweb.no", "sanity.dfweb.no"],
     minimumCacheTTL: 1200
   },
   async headers() {
