@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "flowbite": "^1.5.2",
-    "framer-motion": "^7.0.0",
+    "framer-motion": "^7.0.1",
     "next": "12.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
