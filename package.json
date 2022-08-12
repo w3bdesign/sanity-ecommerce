@@ -19,7 +19,7 @@
   "dependencies": {
     "flowbite": "^1.5.2",
     "framer-motion": "^7.1.0",
-    "next": "12.2.4",
+    "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "shopify-buy": "^2.16.1",
@@ -44,7 +44,7 @@
     "chokidar": "^3.5.3",
     "cypress": "^10.4.0",
     "eslint": "8.21.0",
-    "eslint-config-next": "12.2.4",
+    "eslint-config-next": "12.2.5",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-storybook": "^0.6.4",
     "jest": "^28.1.3",
