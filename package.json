@@ -17,7 +17,7 @@
     "cypress:headless": "cypress run"
   },
   "dependencies": {
-    "flowbite": "^1.5.2",
+    "flowbite": "^1.5.3",
     "framer-motion": "^7.2.1",
     "next": "12.2.5",
     "react": "18.2.0",
