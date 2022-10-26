@@ -54,5 +54,5 @@ workflows:
           wait-on: "http://localhost:3000"
           # there are no jobs to follow this one
           # so no need to save the workspace files (saves time)
-          no-workspace: false
+          no-workspace: true
           parallelism: 8
