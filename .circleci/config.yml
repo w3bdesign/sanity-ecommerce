@@ -51,7 +51,7 @@ workflows:
       - cypress/run:
           name: Run Cypress E2E tests          
           start: npm run dev
-          executor: browsers-chrome100-ff99-edge
+          executor: cypress/base-14
           wait-on: "http://localhost:3000"
           # there are no jobs to follow this one
           # so no need to save the workspace files (saves time)
