@@ -24,7 +24,7 @@
     "eslint": "8.28.0",
     "prop-types": "15.8.1",
     "react": "17.0.2",
-    "react-barcode": "1.4.5",
+    "react-barcode": "1.4.6",
     "react-dom": "17.0.2",
     "styled-components": "5.3.6"
   },
