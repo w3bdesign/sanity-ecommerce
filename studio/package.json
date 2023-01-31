@@ -14,11 +14,11 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "^2.35.2",
-    "@sanity/core": "^2.35.0",
-    "@sanity/default-layout": "^2.35.2",
-    "@sanity/default-login": "^2.35.2",
-    "@sanity/desk-tool": "^2.35.2",
+    "@sanity/base": "^2.35.5",
+    "@sanity/core": "^2.35.5",
+    "@sanity/default-layout": "^2.35.5",
+    "@sanity/default-login": "^2.35.5",
+    "@sanity/desk-tool": "^2.35.5",
     "@sanity/eslint-config-studio": "^2.0.1",    
     "eslint": "8.33.0",
     "prop-types": "15.8.1",
