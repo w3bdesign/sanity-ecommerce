@@ -20,7 +20,7 @@
     "flowbite": "^1.6.3",
     "framer-motion": "^10.0.0",
     "shopify-buy": "^2.18.0",
-    "zustand": "^4.3.3"
+    "zustand": "^4.3.4"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",
