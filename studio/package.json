@@ -20,7 +20,7 @@
     "@sanity/default-login": "^2.35.7",
     "@sanity/desk-tool": "^2.35.7",
     "@sanity/eslint-config-studio": "^2.0.1",    
-    "eslint": "8.36.0",
+    "eslint": "8.37.0",
     "prop-types": "15.8.1",
     "react": "^17.0.2",
     "react-barcode": "^1.4.6",
