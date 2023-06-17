@@ -6,7 +6,7 @@
 
 # Sanity Ecommerce application
 
- Sanity Ecommerce application
+Currently just a placeholder repo for a future project I am considering working on. 
  
  ## Nextjs
  
