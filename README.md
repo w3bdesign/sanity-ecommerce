@@ -12,18 +12,6 @@ Currently just a placeholder repo for a future project I am considering working 
  
  https://blog.logrocket.com/build-ecommerce-app-nextjs-shopify/
 
-## Zustand
-
-<https://github.com/indraAK/maos-quran>
-
-<https://codesandbox.io/s/nextjs-zustand-example-forked-bnpfz?file=/pages/index.tsx>
-
-<https://blog.devgenius.io/managing-persistent-states-in-nextjs-with-zustand-e6feea1a2d36>
-
-<https://www.flavienbonvin.com/the-best-react-state-management-library-you-never-heard-of/>
-
-<https://javascript.plainenglish.io/using-zustand-and-typescript-to-make-a-to-do-list-in-react-fe4a41e76748>
-
 ## eCommerce
 
 <https://github.com/ndimatteo/HULL>
