@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "flowbite": "^2.5.1",
-    "framer-motion": "^11.7.0",
+    "framer-motion": "^11.8.0",
     "shopify-buy": "^2.22.0",
     "zustand": "^4.5.5"
   },
