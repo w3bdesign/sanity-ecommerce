@@ -17,7 +17,7 @@
     "cypress:headless": "cypress run"
   },
   "dependencies": {
-    "flowbite": "^2.5.1",
+    "flowbite": "^2.5.2",
     "framer-motion": "^11.8.0",
     "shopify-buy": "^2.22.0",
     "zustand": "^4.5.5"
