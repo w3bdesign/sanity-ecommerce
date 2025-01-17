@@ -34,7 +34,7 @@
     "@testing-library/react": "16.2.0",
     "@testing-library/user-event": "14.6.0",
     "@types/node": "^22.10.5",
-    "@types/react": "^19.0.5",
+    "@types/react": "^19.0.7",
     "@types/react-dom": "19.0.3",
     "autoprefixer": "^10.4.20",
     "babel-loader": "^9.2.1",
