@@ -39,7 +39,7 @@
     "autoprefixer": "^10.4.20",
     "babel-loader": "^9.2.1",
     "chokidar": "^4.0.3",
-    "cypress": "^14.0.3",
+    "cypress": "^14.1.0",
     "eslint": "9.21.0",    
     "eslint-config-prettier": "^10.0.1",
     "eslint-plugin-storybook": "^0.11.3",
