@@ -23,7 +23,7 @@
     "eslint": "9.22.0",
     "prop-types": "15.8.1",
     "react": "^19.0.0",
-    "react-barcode": "^1.5.3",
+    "react-barcode": "^1.6.1",
     "react-dom": "^19.0.0",
     "styled-components": "5.3.11"
   },
