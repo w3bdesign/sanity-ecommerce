@@ -19,7 +19,7 @@
   "dependencies": {
     "flowbite": "^3.1.2",
     "framer-motion": "^12.7.1",
-    "shopify-buy": "^3.0.3",
+    "shopify-buy": "^3.0.4",
     "zustand": "^5.0.3"
   },
   "devDependencies": {
