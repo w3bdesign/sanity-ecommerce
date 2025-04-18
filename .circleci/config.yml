@@ -9,7 +9,7 @@ jobs:
   # 👇 Adds Chromatic as a job
   chromatic-deployment:
     docker:
-      - image: cypress/included:14.3.0
+      - image: cypress/included:14.3.1
     working_directory: ~/repo
     steps:
       - checkout
@@ -21,7 +21,7 @@ jobs:
   build:
     working_directory: ~/sanity
     docker:
-      - image: cypress/included:14.3.0
+      - image: cypress/included:14.3.1
     steps:
       - checkout
       - restore_cache:
