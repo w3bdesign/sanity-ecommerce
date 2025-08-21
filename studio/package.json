@@ -22,9 +22,9 @@
     "@sanity/eslint-config-studio": "^5.0.2",    
     "eslint": "9.31.0",
     "prop-types": "15.8.1",
-    "react": "^19.1.0",
+    "react": "^19.1.1",
     "react-barcode": "^1.6.1",
-    "react-dom": "^19.1.0",
+    "react-dom": "^19.1.1",
     "styled-components": "5.3.11"
   },
   "devDependencies": {}
