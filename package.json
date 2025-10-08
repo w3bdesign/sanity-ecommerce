@@ -41,7 +41,7 @@
     "chokidar": "^4.0.3",
     "cypress": "^15.2.0",
     "eslint": "9.37.0",    
-    "eslint-config-prettier": "^10.1.5",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-storybook": "^9.0.8",
     "jest": "^30.0.5",
     "jest-environment-jsdom": "^30.0.5",
